@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\vineet mendon\Desktop\bot\welcomepage\welcomepage\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Add_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CancelTicket1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cancelticket2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddFlights.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flight_occupancy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckPassengerList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentDetail2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymetDetail1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchTicket1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectSeats1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketPayment1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateFlightInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateFlightLoctTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdatePayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectSeats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewCanceledTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewFlights.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomePage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Roleselector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
